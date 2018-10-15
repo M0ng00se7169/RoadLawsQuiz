@@ -20,4 +20,5 @@
     <string name="bnt_reset_password">Zresetuj hasło</string>
     <string name="btn_send">Wyślij</string>
     <string name="forgot_password_msg">Potrzebujemy twoje Email rejestracyjny aby wysłać Ci dalniejsze instrukcje</string>
+    <string name="btn_back">Cofnij się</string>
 </resources>
