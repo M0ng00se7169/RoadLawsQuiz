@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">NaukaPrawJazdy</string>
+    <string name="action_sign_in_short">Rejestracja</string>
+    <string name="email">Email</string>
+    <string name="minimum_password">Hasło jest za małe, wprowadż minimum 6 znaków</string>
+    <string name="auth_failed">Autentykacja nie udała się, sprawdż porpawność email`a albo hasła </string>
+    <string name="change_email">Zmień Email</string>
+    <string name="change_password">Zmień Hasło</string>
+    <string name="send_password_reset_email">Wyślij email resetujący hasło</string>
+    <string name="remove_user">Wyjkasuj użytkownika</string>
+    <string name="new_password">Nowe Hasło</string>
+    <string name="title_activity_profile">Firebase</string>
+    <string name="title_activity_login">Login</string>
+    <string name="hint_password">Hasło</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_link_to_register">Jeszcze nie masz konta? Zarejestruj się teraz!</string>
+    <string name="bnt_link_to_login">Już jesteś zarejestrowany. Zaloguj się!</string>
+    <string name="title_activity_reset_password">ResetPasswordActivity</string>
+    <string name="btn_forgot_password">Zapomniałeś hasło?</string>
+    <string name="bnt_reset_password">Zresetuj hasło</string>
+    <string name="btn_send">Wyślij</string>
+    <string name="forgot_password_msg">Potrzebujemy twoje Email rejestracyjny aby wysłać Ci dalniejsze instrukcje</string>
 </resources>
