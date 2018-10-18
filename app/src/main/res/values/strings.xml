@@ -21,4 +21,13 @@
     <string name="btn_send">Wyślij</string>
     <string name="forgot_password_msg">Potrzebujemy twoje Email rejestracyjny aby wysłać Ci dalniejsze instrukcje</string>
     <string name="btn_back">Cofnij się</string>
+    <string name="nauka">Nauka</string>
+    <string name="testy">Testy</string>
+    <string name="egzamin">Egzamin</string>
+    <string name="statystyki">Statystyki</string>
+    <string name="ustawienia">Ustawienia</string>
+    <string name="wyszukaj_pytanie">Wyszukaj pytanie</string>
+    <string name="e_kurs">E-kurs</string>
+    <string name="subskrbcja">Subskrbcja</string>
+    <string name="o_nas">O nas</string>
 </resources>
