@@ -16,6 +16,9 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+
+        // Sets Intents to other activities of the application
+
         btnNauka.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
