@@ -20,7 +20,16 @@
         </activity>
         <activity android:name=".MainActivity" />
         <activity android:name=".AccountActivity.SignUpActivity" />
-        <activity android:name=".AccountActivity.ResetPasswordActivity"></activity>
+        <activity android:name=".AccountActivity.ResetPasswordActivity" />
+        <activity android:name=".SettingsActivity" />
+        <activity android:name=".LearnActivity" />
+        <activity android:name=".TestsActivity" />
+        <activity android:name=".EgzaminActivity" />
+        <activity android:name=".StatisticsActivity" />
+        <activity android:name=".SearchQuestionActivity" />
+        <activity android:name=".EkursActivity" />
+        <activity android:name=".SubscriptionActivity" />
+        <activity android:name=".AboutUsActivity"></activity>
     </application>
 
 </manifest>
